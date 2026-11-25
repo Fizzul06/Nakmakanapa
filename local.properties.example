@@ -1,0 +1,12 @@
+# Copy this file to local.properties and fill in your own keys.
+# local.properties is gitignored and must never be committed.
+
+# Path to your Android SDK (Android Studio fills this in automatically)
+sdk.dir=/path/to/Android/Sdk
+
+# Google Cloud Console -> APIs & Services -> Credentials -> API key
+# Enable "Places API (New)" for this key.
+MAPS_API_KEY=your_google_places_api_key_here
+
+# https://platform.deepseek.com -> API Keys
+DEEPSEEK_API_KEY=your_deepseek_api_key_here

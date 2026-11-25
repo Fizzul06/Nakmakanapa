@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Adaptive icon foreground: your logo, inset to fit the 108dp safe zone.
+  The source PNG is 38.5KB in /drawable/logo_makan_mana.png.
+  We wrap it in a layer-list with insets so Android's maskable icon cropping
+  (circle / squircle / rounded square) never clips the artwork.
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/logo_makan_mana"
+        android:gravity="center"
+        android:width="66dp"
+        android:height="66dp" />
+</layer-list>
