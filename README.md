@@ -20,7 +20,17 @@ Existing food apps give you more options. This one narrows the choice to a singl
 
 ## Screenshots
 
-> _[Add screenshots here — landing, main menu, Surprise Me result, detail screen]_
+| Landing | Main Menu | Live Results |
+|---|---|---|
+| ![Landing](docs/screenshots/01-landing.png) | ![Main menu](docs/screenshots/02-main-menu.png) | ![Results](docs/screenshots/03-results.png) |
+
+| Restaurant Detail | Photo Gallery | Adventure |
+|---|---|---|
+| ![Detail](docs/screenshots/04-detail.png) | ![Gallery](docs/screenshots/05-gallery.png) | ![Adventure](docs/screenshots/10-adventure.png) |
+
+| Surprise Me — AI picking | Surprise Me — result | Saved List |
+|---|---|---|
+| ![Loading](docs/screenshots/06-surprise-loading.png) | ![Result](docs/screenshots/07-surprise-result.png) | ![Saved](docs/screenshots/09-saved.png) |
 
 ---
 
